@@ -1,5 +1,7 @@
 """The Game of Hog"""
 
+print("I wrote this on Cloud 9")
+
 from dice import four_sided_dice, six_sided_dice, make_test_dice
 from ucb import main, trace, log_current_line, interact
 
