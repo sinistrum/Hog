@@ -5,6 +5,7 @@ print("I also wrote this")
 print("But then I added this from my local computer")
 print("I am going to add this on Cloud 9")
 print("Taking a long time to modify work...")
+print("I am going to make a quick change")
 
 from dice import four_sided_dice, six_sided_dice, make_test_dice
 from ucb import main, trace, log_current_line, interact
